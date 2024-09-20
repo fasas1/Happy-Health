@@ -1,0 +1,6 @@
+@Happy_Health_HostAddress = http://localhost:5150
+
+GET {{Happy_Health_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
